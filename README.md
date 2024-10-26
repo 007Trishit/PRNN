@@ -1,2 +1,2 @@
 # PRNN
-Pattern Recognition and Neural Networks
+This repo has all the assignmenta from the Course of Pattern Recognition and Neural Networks.
